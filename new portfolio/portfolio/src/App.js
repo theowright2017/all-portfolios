@@ -31,7 +31,7 @@ function App() {
             <a href="/home" className="nav-link current">Home</a>
           </li>
           <li className="nav-item">
-            <a href="#experience" className="nav-link">About</a>
+            <a href="#experie" className="nav-link">About</a>
           </li>
           <li className="nav-item">
             <a href="#" className="nav-link">Projects</a>
