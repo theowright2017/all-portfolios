@@ -1,0 +1,102 @@
+
+
+.header-colour {
+  background: #009FFF;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ec2F4B, #009FFF);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ec2F4B, #009FFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+.mdl-layout__header-row {
+  display: flex;
+  justify-content: flex-end;
+}
+ .landing-grid {
+
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.projects-grid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-body {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+
+
+}
+
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background: white;
+  color: black;
+
+
+}
+
+.contact-grid h2 {
+  font-family: anton sans-serif;
+}
+
+.contact-grid p {
+  font-family: oxygen sans-serif;
+  font-weight: bold;
+}
+
+.contact-grid hr {
+  border-top: 5px dotted black;
+  width: 50%;
+  margin: auto;
+}
+
+.contact-list i {
+  padding-right: 2em;
+}
+
+
+
+
+.mdl-grid {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.mdl-cell {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+
+
+.resume-body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0px !important;
+  padding: 0px !important;
+  display: flex;
+}
+
+.resume-right-col {
+
+  color: black;
+  margin: 0px !important;
+  padding: 0px !important;
+  background: grey;
+
+}
+.resume-left-col {
+  margin: 0px !important;
+  padding: 0px !important;
+}

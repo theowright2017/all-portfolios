@@ -1,0 +1,53 @@
+/* landing page */
+/* .avatar-img {
+  height: 30vh;
+  border-radius: 80%;
+  margin-top: 5em;
+} */
+
+.banner-text {
+  background-color: rgba(105,105,105, 0.6);
+  /* opacity: .8; */
+  width: 85vw;
+  margin: auto;
+  margin-top: 8em;
+  border-radius: 10px;
+  padding: 1em;
+
+}
+.banner-text h1 {
+
+  font-size: 4em;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-text hr {
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+.banner-text p {
+
+  margin: auto;
+  color: white;
+  font-size: 3em;
+  padding: 1em;
+  line-height: 1em;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 3em;
+}
+
+.social-links i:hover {
+  font-weight: bold;
+}
